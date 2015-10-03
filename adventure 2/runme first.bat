@@ -1,1 +1,0 @@
-set PATH=%PATH%;C:\Users\mkennedy\AppData\Local\Enthought\Canopy\System\Scripts\demoEnv\Scripts
